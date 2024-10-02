@@ -1,2 +1,3 @@
 #Hello World.py
 print("Hello")
+컴퓨터공학과
